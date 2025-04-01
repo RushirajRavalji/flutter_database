@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(flutter_firebase LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "flutter_firebase")
+=======
+project(supabase LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "supabase")
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

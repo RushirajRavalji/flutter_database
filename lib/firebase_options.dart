@@ -42,17 +42,29 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyBCBik0JYhFw-KjHcUM5tMDy_bAjczP5Yg',
+<<<<<<< HEAD
     appId: '1:808961781799:web:0ccdcd533ede991750de02',
+=======
+    appId: '1:808961781799:web:97b06ecb1fa03a9250de02',
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
     messagingSenderId: '808961781799',
     projectId: 'fluttertest-86399',
     authDomain: 'fluttertest-86399.firebaseapp.com',
     storageBucket: 'fluttertest-86399.firebasestorage.app',
+<<<<<<< HEAD
     measurementId: 'G-2709NHYSJN',
+=======
+    measurementId: 'G-NC413QLXWD',
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAceyaKXS3fTgI35BSxaM8rG6k6ebETl0E',
+<<<<<<< HEAD
     appId: '1:808961781799:android:01fe5826d7a2394650de02',
+=======
+    appId: '1:808961781799:android:e912c6dfe8d3158650de02',
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
     messagingSenderId: '808961781799',
     projectId: 'fluttertest-86399',
     storageBucket: 'fluttertest-86399.firebasestorage.app',
@@ -60,29 +72,56 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAbtKg34KXhBCygswMFKmqPgtQ2K1q9gyE',
+<<<<<<< HEAD
     appId: '1:808961781799:ios:6025d8f5c8a990c850de02',
     messagingSenderId: '808961781799',
     projectId: 'fluttertest-86399',
     storageBucket: 'fluttertest-86399.firebasestorage.app',
     iosBundleId: 'com.example.flutterFirebase',
+=======
+    appId: '1:808961781799:ios:ee86aa90fd2c155050de02',
+    messagingSenderId: '808961781799',
+    projectId: 'fluttertest-86399',
+    storageBucket: 'fluttertest-86399.firebasestorage.app',
+    iosBundleId: 'com.example.supabase',
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAbtKg34KXhBCygswMFKmqPgtQ2K1q9gyE',
+<<<<<<< HEAD
     appId: '1:808961781799:ios:6025d8f5c8a990c850de02',
     messagingSenderId: '808961781799',
     projectId: 'fluttertest-86399',
     storageBucket: 'fluttertest-86399.firebasestorage.app',
     iosBundleId: 'com.example.flutterFirebase',
+=======
+    appId: '1:808961781799:ios:ee86aa90fd2c155050de02',
+    messagingSenderId: '808961781799',
+    projectId: 'fluttertest-86399',
+    storageBucket: 'fluttertest-86399.firebasestorage.app',
+    iosBundleId: 'com.example.supabase',
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyBCBik0JYhFw-KjHcUM5tMDy_bAjczP5Yg',
+<<<<<<< HEAD
     appId: '1:808961781799:web:0ccdcd533ede991750de02',
+=======
+    appId: '1:808961781799:web:740cb7784a307f2f50de02',
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
     messagingSenderId: '808961781799',
     projectId: 'fluttertest-86399',
     authDomain: 'fluttertest-86399.firebaseapp.com',
     storageBucket: 'fluttertest-86399.firebasestorage.app',
+<<<<<<< HEAD
     measurementId: 'G-2709NHYSJN',
   );
 }
+=======
+    measurementId: 'G-WSWCRK1DTS',
+  );
+
+}
+>>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
