@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
     "name": "flutter_firebase",
     "short_name": "flutter_firebase",
-=======
-    "name": "supabase",
-    "short_name": "supabase",
->>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -27,11 +27,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
-<<<<<<< HEAD
   if (!window.Create(L"flutter_firebase", origin, size)) {
-=======
-  if (!window.Create(L"supabase", origin, size)) {
->>>>>>> fdf09ab8f7ab384269aaeeacc1831058e60a6515
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);
